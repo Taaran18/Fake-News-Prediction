@@ -1,2 +1,1 @@
-# Fake News Detection# fake-News-Prediction
-"# fake-News-Prediction" 
+# Fake News Detection#
